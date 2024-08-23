@@ -1,0 +1,22 @@
+{
+  "fruits": [
+    {"name": "Apple", 
+    "image": "apple",
+    "definition": "kulay pula"},
+    {"name": "Orange", 
+    "image": "oranges",
+    "definition": "kulay oranges"},
+    {"name": "Strawberry", 
+    "image": "strawberry",
+    "definition": "kulay pula ma may mata"},
+    {"name": "Melon", 
+    "image": "watermelon",
+    "definition": "kulay green pero pula ang loob"},
+    {"name": "Kiwi", 
+    "image": "kiwi",
+    "definition": "kulay green pero yellow ang loob"},
+    {"name": "Banana", 
+    "image": "banana",
+    "definition": "kulay dilaw"}
+  ]
+}
