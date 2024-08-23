@@ -1,22 +1,22 @@
 {
   "fruits": [
     {"name": "Apple", 
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtkzZMTh_n9DE3CznuCnA8wVdQI7IQT9sDng&s",
+    "image": "https://github.com/NetXph1/myclass/blob/main/images.jpeg",
     "definition": "kulay pula"},
     {"name": "Orange", 
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtkzZMTh_n9DE3CznuCnA8wVdQI7IQT9sDng&s",
+    "image": "https://github.com/NetXph1/myclass/blob/main/images.jpeg",
     "definition": "kulay oranges"},
     {"name": "Strawberry", 
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtkzZMTh_n9DE3CznuCnA8wVdQI7IQT9sDng&s",
+    "image": "https://github.com/NetXph1/myclass/blob/main/images.jpeg",
     "definition": "kulay pula ma may mata"},
     {"name": "Melon", 
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtkzZMTh_n9DE3CznuCnA8wVdQI7IQT9sDng&s",
+    "image": "https://github.com/NetXph1/myclass/blob/main/images.jpeg",
     "definition": "kulay green pero pula ang loob"},
     {"name": "Kiwi", 
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtkzZMTh_n9DE3CznuCnA8wVdQI7IQT9sDng&s",
+    "image": "https://github.com/NetXph1/myclass/blob/main/images.jpeg",
     "definition": "kulay green pero yellow ang loob"},
     {"name": "Banana", 
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtkzZMTh_n9DE3CznuCnA8wVdQI7IQT9sDng&s",
+    "image": "https://github.com/NetXph1/myclass/blob/main/images.jpeg",
     "definition": "kulay dilaw"}
   ]
 }
