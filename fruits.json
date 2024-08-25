@@ -1,8 +1,8 @@
 {
   "fruits": [
-    {"name": "Kim Billy Pineda", 
+    {"name": "Apple", 
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg3V9mzyDgo4oQasZhObidLEozlXiGLJ__WRBbgdbqByqcW63713BnKwsi&s=10",
-    "definition": "watch and learn"},
+    "definition": "Kulay pula"},
     {"name": "Orange", 
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnOfG67tsKl4jetuZmBUPQYQglFiFVqL4CkJwQ9OovQc3Bh8PTm1tfC4E6&s=10",
     "definition": "kulay oranges"},
